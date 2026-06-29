@@ -1,0 +1,10 @@
+# Project place file
+/Rojo try.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+.claude/settings.local.json
