@@ -1,1 +1,3 @@
-print("Hello world, from server!")
+--!strict
+local ServerMain = require(script.ServerMain)
+ServerMain.Start()

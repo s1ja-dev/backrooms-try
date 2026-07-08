@@ -1,1 +1,3 @@
-print("Hello world, from client!")
+--!strict
+local ClientMain = require(script.ClientMain)
+ClientMain.Start()
